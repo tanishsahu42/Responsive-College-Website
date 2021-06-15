@@ -1,5 +1,6 @@
 # Responsive-College-Website
-Live Link: ismpractice-42.netlify.app
+[Live Link of Website](ismpractice-42.netlify.app)
+
 
 Fully Responsive multiple page college website.
 (For Practice).
